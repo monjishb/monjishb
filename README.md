@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @monjishb
 - 👀 I’m interested in coding small projects and learning things
-- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on TBD
 - 📫 How to reach me: email me at monjishb@gmail.com
 
